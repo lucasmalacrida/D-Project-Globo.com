@@ -1,0 +1,134 @@
+h1 {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -2.8%;
+    color: #CD150B;
+}
+
+h2 {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24.51px;
+    letter-spacing: -6.8%;
+    color: #CD150B;
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+
+h3 {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -4.5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -4.8%;
+
+    margin-top: 18px;
+    margin-bottom: 9px;
+}
+
+body {
+    font-family: 'Open Sans';
+}
+
+.bigger-header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    background-color: white;
+}
+
+.header-logo {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-border-x {
+    background-color: #E6E6E6;
+    height: 1px;
+    width: 100%;
+}
+
+.header-menu {
+    height: 58px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    width: 375px;
+    margin: auto;
+}
+
+.header-menu div {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 26px;
+    letter-spacing: -6.5%;
+}
+
+.container-main {
+    display: flex;
+    flex-direction: column;
+    width: 375px;
+    margin-top: 139px;
+}
+
+.container-main img {
+    width: 120px;
+    height: 67px;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.call {
+    margin-left: 15px;
+    margin-top: 16px;
+}
+
+.border-x {
+    background-color: #E6E6E6;
+    height: 1px;
+    width: 344px;
+    margin-left: 16px;
+}
+
+.video-call {
+    display: flex;
+    margin-top: 23px;
+}
+
+.g1 {
+    color: #CD150B;
+    margin-left: 15px;
+
+}
+
+.ge {
+    color: #06AA48;
+    margin-left: 15px;
+
+}
+
+.gshow {
+    color: #FF8203;
+    margin-left: 15px;
+
+}
